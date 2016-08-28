@@ -1,3 +1,4 @@
 # hello-world
 My first foray into coding.
-+ Seeking purpose
+Seeking purpose
+Figuring it out
